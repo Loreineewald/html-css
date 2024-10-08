@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Desafio imagem flexivel</title>
+</head>
+<body>
+    <h1>Imagem flexível</h1>
+
+        <p>Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar melhor a experiência! &#x1F618</p>
+
+    <picture>
+        <source media="(max-width:750px)" srcset="imagens/foto-p.jpg" type="image/jpeg">
+        <source media="(max-width:1050px)" srcset="imagens/foto-m.jpg" type="image/jpeg">
+        <img src="imagens/foto-g.jpg" alt="imagem flexivel">
+    </picture>
+
+    <h1>Reproduzindo áudio</h1>
+
+       <p>Vamos aprender a reproduzir áudios em HTML5</p>
+
+        <audio preload="metadata" controls autoplay loop>
+        <source src="midia/the-green-orbs.mp3" type="audio/mpeg">
+        <source src="midia/the-green-orbs.ogg" type="audio/ogg">
+        <source src="midia/the-green-orbs.wav" type="audio/wav">
+            <p>Infelizmente seu navegador não consegue reproduzir áudio</p> <a href="midia/the-green-orbs.mp3">Clique aqui para baixar o arquivo MP3</a>
+        </audio>
+    <!--MP3 WAV OGG-->
+</body>
+</html>
