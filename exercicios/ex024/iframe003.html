@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de iframe</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        iframe#tela {
+            width: 95vw;
+            height: 400px;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Faça uma escolha</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione provident est tempora sapiente alias sunt, expedita molestias odit voluptatum voluptas iste totam distinctio eaque ab dolorum, minus cumque mollitia quae.</p>
+
+    <ul>
+        <li><a href="paginas-extras/pag001.html" target="frame">Primeira página</a></li>
+        <li><a href="paginas-extras/pag002.html" target="frame">Segunda página</a></li>
+        <li><a href="paginas-extras/pag003.html" target="frame">Terceira página</a></li>
+    </ul>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium quis repellendus quidem quibusdam earum aspernatur autem unde impedit natus sequi error, neque minima. Possimus, deleniti rem quaerat vitae iure dolorem!</p>
+
+    <iframe id="tela" name="frame" srcdoc="<h1>Escolha uma das opções acima</h1><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat quae fuga nisi impedit doloribus, eaque asperiores eligendi perferendis adipisci nemo et minus quia debitis! Nobis placeat reprehenderit dolores delectus vel? Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, ratione omnis. Quam id atque sequi voluptatem tenetur provident asperiores, laboriosam, magnam saepe, praesentium recusandae non libero dolor nihil labore beatae.</p>">
+        <p>Infelizmente seu navegador não é compatível com isso!</p>
+    </iframe>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat quae fuga nisi impedit doloribus, eaque asperiores eligendi perferendis adipisci nemo et minus quia debitis! Nobis placeat reprehenderit dolores delectus vel? Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, ratione omnis. Quam id atque sequi voluptatem tenetur provident asperiores, laboriosam, magnam saepe, praesentium recusandae non libero dolor nihil labore beatae.</p>
+</body>
+</html>
