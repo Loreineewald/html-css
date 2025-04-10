@@ -1,7 +1,7 @@
 # https://loreineewald.github.io/html-css/
 
- Curso de HTML5 e CSS3 do curso em vídeo.
- Com Professor Gustavo Guanabara.
+ Curso de <strong>HTML5</strong> e <strong>CSS3</strong> do Curso em Vídeo.<br>
+ Com Professor <strong>Gustavo Guanabara</strong>.
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
