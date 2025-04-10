@@ -36,6 +36,41 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex020/hover.html" target="_blank">Executar o exercício 020 - Exemplo de Hover</a><br>
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex020/links.html" target="_blank">Executar o exercício 020 - Links</a><br>
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">Executar o exercício 020 - Pseudo-classes</a><br>
-    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">Executar o exercício 020 - Pseudo-classes</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex021/anatomiacaixa.html" target="_blank">Executar o exercício 021 - Anatomia de uma caixa</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank">Executar o exercício 021 - Modelo de caixa</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank">Executar o exercício 021 - Grouping Tags</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex021/caixa02.2.html" target="_blank">Executar o exercício 021 - Exemplo de sombras</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank">Executar o exercício 021 - Borda personalizada</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex022/fundo001.html" target="_blank">Executar o exercício 022 - Teste de imagem de fundo</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex022/fundo002.html" target="_blank">Executar o exercício 022 - Personalização dos fundos</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex022/fundo003.html" target="_blank">Executar o exercício 022 - Posição dos fundos</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex022/fundo004.html" target="_blank">Executar o exercício 022 - Posicionamento - 1</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex022/fundo005.html" target="_blank">Executar o exercício 022 - Posicionamento - 2</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex022/fundo006.html" target="_blank">Executar o exercício 022 - Fundo fixo de tela</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex022/fundo007.html" target="_blank">Executar o exercício 022 - Alinhamento vertical</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex023/tabela001.html" target="_blank">Executar o exercício 023 - Tabelas</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex023/tabela002.html" target="_blank">Executar o exercício 023 - Tabelas grandes</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex023/tabela003.html" target="_blank">Executar o exercício 023 - Mesclagem de células</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex023/tabela004.html" target="_blank">Executar o exercício 023 - Exercício de tabelas</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex023/tabela005.html" target="_blank">Executar o exercício 023 - Exercício de tabelas com cores</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex023/tabela006.html" target="_blank">Executar o exercício 023 - Tabelas em telas pequenas</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex024/iframe001.html" target="_blank">Executar o exercício 024 - Estudo de iframe</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex024/iframe002.html" target="_blank">Executar o exercício 024 - Teste com iframe - Tabela responsiva</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex024/iframe004.html" target="_blank">Executar o exercício 024 - Uso de iframe - Meu site principal</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex024/iframe005.html" target="_blank">Executar o exercício 024 - Iframe- Document</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex024/iframe006.html" target="_blank">Executar o exercício 024 - Iframe - Adicionando conteúdos</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form001.html" target="_blank">Executar o exercício 025 - Formulário - Meu primeiro formulário</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form002.html" target="_blank">Executar o exercício 025 - Formulário - Teste de formulário</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form003.html" target="_blank">Executar o exercício 025 - Formulário - Teste de formulário 2</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form004.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form005.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário 2</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form006.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário 3</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form007.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário 4</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form008.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário 5</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form009.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário 6</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form010.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário 7</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex026/mq001/index.html" target="_blank">Executar o exercício 026 - Media Query</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex026/mq002/index.html" target="_blank">Executar o exercício 026 - Media Query - Mude a orientação do seu dispositivo</a><br>
+ 
     
-</ul>
+    
