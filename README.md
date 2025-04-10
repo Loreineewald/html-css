@@ -71,6 +71,19 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex025/form010.html" target="_blank">Executar o exercício 025 - Formulário - Exemplo de formulário 7</a><br>
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex026/mq001/index.html" target="_blank">Executar o exercício 026 - Media Query</a><br>
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex026/mq002/index.html" target="_blank">Executar o exercício 026 - Media Query - Mude a orientação do seu dispositivo</a><br>
- 
-    
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex026/mq004/index.html" target="_blank">Executar o exercício 026 - Media Query </a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex026/mq005/index.html" target="_blank">Executar o exercício 026 - Media Query - Meu site </a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex001/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Horizontal</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex002/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Vertical</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex003/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Exemplo de bloco</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex004/index.html" target="_blank">Executar o exercício 027 - Flexible Box </a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex005/index.html" target="_blank">Executar o exercício 027 - Flexible Box centralizado</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex006/index.html" target="_blank">Executar o exercício 027 - Flexible Box centralizado 2 </a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex007/index.html" target="_blank">Executar o exercício 027 - Flexible Box 2</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex008/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Posicionamentos variados</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex009/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Com conteúdo</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex010/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Responsivo</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex011/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Responsivo 2 </a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex012/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Responsivo 3 </a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex013%20-%20menu%20flexbox/index.html" target="_blank">Executar o exercício 027 - Flexible Box - MENU </a><br>
     
