@@ -5,6 +5,8 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
+---
+
 <h2>Exercícios praticados no curso</h2>
 
 <ul type="disc">
