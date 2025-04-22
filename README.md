@@ -88,4 +88,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex011/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Responsivo 2 </a><br>
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex012/index.html" target="_blank">Executar o exercício 027 - Flexible Box - Responsivo 3 </a><br>
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex013%20-%20menu%20flexbox/index.html" target="_blank">Executar o exercício 027 - Flexible Box - MENU RESPONSIVO </a><br>
+    <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex014%20-%20conteudo%20flex/" target="_blank">Executar o exercício 027 - Projeto Conteúdo flexível apenas com Flexbox </a><br>
     
