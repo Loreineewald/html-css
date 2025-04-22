@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conteúdo flex</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="normal">
+        <h1>Exemplo de conteúdo flexível</h1><br>
+        <h2>Um espaço criado para aprender e explorar.</h2>
+        <p>Este site foi desenvolvido como parte de um projeto pessoal com foco em prática e aprendizado de layouts flexíveis em HTML e CSS. A proposta é experimentar diferentes formas de estruturar conteúdo, testando seções com e sem Flexbox, enquanto exploro boas práticas de design responsivo e organização visual.</p>
+    </header>
+    <main>
+        <section class="flex-content">
+            <article class="media-text">
+                <div class="text">
+                    <h2>Elemento Media -> Text</h2>
+                    <p>Esta seção foi desenvolvida com um layout responsivo que se adapta ao tamanho da tela. Em resoluções maiores, o conteúdo é exibido lado a lado: mídia e texto compartilhando o espaço horizontalmente. Já em telas menores, a ordem muda para garantir uma experiência visual mais fluida — a mídia é posicionada acima do texto, priorizando a apresentação visual em dispositivos móveis.</p>
+                </div>
+                <div class="media">
+                    <img src="site.png" alt="Criando conteúdo flex">
+                </div>
+            </article>
+            <article class="text-media">
+                <div class="text">
+                    <h2>Elemento Text -> Media</h2>
+                    <p>Esta seção foi estruturada para se adaptar de forma fluida a diferentes tamanhos de tela. Em resoluções amplas, o conteúdo é exibido lado a lado, equilibrando texto e mídia horizontalmente. Quando a tela é reduzida, a organização muda para uma estrutura vertical — e, nesse formato, o texto é apresentado primeiro, seguido pela mídia. Essa escolha visa manter a hierarquia da informação, priorizando a leitura antes do conteúdo visual em dispositivos móveis.</p>
+
+                    <p>O conteúdo apresentado a seguir faz parte do curso que originou este projeto. Cada seção foi desenvolvida com base nos aprendizados ao longo das aulas, com foco na prática de layouts, organização visual e estruturação de páginas web. Esta é uma área dedicada a demonstrar, na prática, os conceitos estudados.</p>
+                </div>
+                <div class="media">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/VBGMnFHRqcY?si=_5se-ktxECukzWKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </article>
+        </section> <!-- Fim da seção flex-content -->
+        <section class="normal">
+            <h2>Seção estática, conteúdo essencial.</h2>
+            <p>Diferente das áreas dinâmicas do site, aqui o foco está na estrutura simples e direta — ideal para apresentar informações fixas com clareza. Um espaço pensado para contrastar com a flexibilidade e reforçar a importância da base.</p>
+        </section>
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
