@@ -91,7 +91,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex014%20-%20conteudo%20flex/" target="_blank">Executar o exercício 027 - Projeto Conteúdo flexível apenas com Flexbox </a><br>
     
 ---
-<h2>Desafios executados
+<h2>Desafios executados </h2>
 
 <ul type="disc">
     <li><a href="https://loreineewald.github.io/html-css/desafios/d001/index.html" target= "_blank">Executar o desafio 01 - Desafio das Mensagens</a><br>
