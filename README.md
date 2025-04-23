@@ -90,3 +90,22 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex013%20-%20menu%20flexbox/index.html" target="_blank">Executar o exercício 027 - Flexible Box - MENU RESPONSIVO </a><br>
     <li><a href="https://loreineewald.github.io/html-css/exercicios/ex027/flex014%20-%20conteudo%20flex/" target="_blank">Executar o exercício 027 - Projeto Conteúdo flexível apenas com Flexbox </a><br>
     
+---
+<h2>Desafios executados
+
+<ul type="disc">
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d001/index.html" target= "_blank">Executar o desafio 01 - Desafio das Mensagens</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d002/index.html" target= "_blank">Executar o desafio 02 - Desafio das Imagens</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d003/index.html" target= "_blank">Executar o desafio 03 - Desafio do Mapa</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d004/index.html" target= "_blank">Executar o desafio 04 - Desafio dos Emojis</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d005/index.html" target= "_blank">Executar o desafio 05 - Desafio Minhas redes sociais e apresentação</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d006/index.html" target= "_blank">Executar o desafio 06 - Desafio Tags em HTML</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d007/index.html" target= "_blank">Executar o desafio 07 - Desafio de Imagens Flexíveis</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d007b/index.html" target= "_blank">Executar o desafio 07-2 - Desafio de Imagens Flexíveis 2</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d008/index.html" target= "_blank">Executar o desafio 08 - Desafio da navegação</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d009/index.html" target= "_blank">Executar o desafio 09 - Desafio Vídeos</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d013/desafio-13-1.html" target= "_blank">Executar o desafio 13 - Desafio Tabelas - Mesclagem de células 01</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d013/desafio-13-2.html" target= "_blank">Executar o desafio 13 - Desafio Tabelas - Mesclagem de células 02</a><br>
+    <li><a href="https://loreineewald.github.io/html-css/desafios/d013/desafio-13-3.html" target= "_blank">Executar o desafio 13 - Desafio Tabela de Notas</a><br>
+
+    
